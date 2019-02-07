@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I am in NY at a DHWeek workshop, having a great time!!!
 
-[what it is, a cat][https://www.catster.com/cats-101/savannah-cat-about-this-breed]
+[what it is, a cat](https://www.catster.com/cats-101/savannah-cat-about-this-breed)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
